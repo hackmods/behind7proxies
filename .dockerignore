@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.gitignore
+*.md
+AGENTS.md
+CLAUDE.md
+proxmox_mcp.log
+.env*
+.vercel
+coverage
+npm-debug.log*
+.dockerignore
